@@ -14,6 +14,10 @@ For a given natural number greater than zero return:
 - "fizzbuzz" if the number is dividable by 15
 - the same number if no other requirement is fulfilled
 
+### Other Resources 
+
+- [Functional FizzBuzz Kata in Java][func-fizzbuzz]
+
 ## Kata 2 &ndash [Berlin Clock][kata-2] (Easy)
 
 Create a representation of the Berlin Clock for a given time (hh::mm:ss).
@@ -41,6 +45,7 @@ The lamps are switched on from left to right.
 
 Detailed explanation with piucture at [Wikipedia][berlin-clock].
 
-[kata-1]:       http://technologyconversations.com/2014/03/12/java-tutorial-through-katas-fizz-buzz-easy/
-[kata-2]:       http://technologyconversations.com/2014/02/25/java-8-tutorial-through-katas-berlin-clock-easy/
-[berlin-clock]: https://en.wikipedia.org/wiki/Mengenlehreuhr
+[kata-1]:        http://technologyconversations.com/2014/03/12/java-tutorial-through-katas-fizz-buzz-easy/
+[kata-2]:        http://technologyconversations.com/2014/02/25/java-8-tutorial-through-katas-berlin-clock-easy/
+[berlin-clock]:  https://en.wikipedia.org/wiki/Mengenlehreuhr
+[func-fizzbuzz]: https://www.javacodegeeks.com/2016/08/functional-fizzbuzz-kata-java.html
